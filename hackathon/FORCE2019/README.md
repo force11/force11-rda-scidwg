@@ -42,6 +42,8 @@ depending on the interests of the participants:
         - Metadata mapping (CodeMeta)
 
         - Connections with WikiData
+        
+        - Tooling
 
    - Data quality
 
