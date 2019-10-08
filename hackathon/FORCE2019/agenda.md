@@ -19,6 +19,10 @@ Break down into 2-4 groups (the number of groups depends on the number of partic
 
 | **Identifiers for software** | **Metadata interoperability** | **Data quality &amp; curation** | **Policies &amp; incentives** |
 | --- | --- | --- | --- |
+| Granularity of identification | Metadata mapping (CodeMeta) | Survey best practices | Institutions |
+| Correspondence between different identifier schemas | Connections with WikiData | Guidelines and checklists | Evaluation committees |
+| Hacking the software citation graph |  Tooling for different fomats (codemeta.json, bibtex, CITATION.cff, etc.) | Moderation & curation process | National research bodies |
+| Exploring synergies|  CodeMeta alignment to schema.org | Supporting reproducibility | Publishers |
 
 10:45 - 11:00 | Coffee break
 
@@ -38,13 +42,13 @@ Break down into 2-4 groups (the number of groups depends on the number of partic
 | --- | --- | --- | --- |
 
 
-15:00 - 15:30 | Coffee Break
+15:00 - 15:15 | Coffee Break
 
-15.30 - 16.30 | Session 3 - Prepare group presentation
+15.15 - 16.00 | Session 3 - Prepare group presentation
 
 | **Identifiers for software** | **Metadata interoperability** | **Data quality &amp; curation** | **Policies &amp; incentives** |
 | --- | --- | --- | --- |
 
-16.30 - 17:00 | Brainstorming and Conclusions
+16.00 - 17:00 | Brainstorming and Conclusions
 
 - each project will present the work that was done during the hackathon.

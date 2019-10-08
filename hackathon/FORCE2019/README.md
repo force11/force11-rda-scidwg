@@ -22,48 +22,42 @@ understanding of the issues and toward a shared set of guidelines.
 During the hackathon there will be  a few presentations about research software
 challenges and institutional solutions.
 
+## Logistics
+1. [The agenda](FORCE2019/agenda.md)
+2. The session notes for each track:
+  - [Identifiers](https://docs.google.com/document/d/1HUch2cvR4RJYc8U5eLLPIW2PPJgQvCwSO924TJHojvY/edit?usp=sharing)
+  - [Metadata interoperability](https://docs.google.com/document/d/1AcIU8SSGnqCbz1vUCBXSt1VfwIBoMNW8K5p8U2FK-Vs/edit?usp=sharing)
+  - [Data quality and curation](https://docs.google.com/document/d/1zt9AdRRBkWeGn2pWlssRvdpRqvjajltYdjWSbbkJrBE/edit?usp=sharing)
+  - [Policies and incentives](https://docs.google.com/document/d/1T5ZH1EXB_fd1iWkO0ypLKSKG1mR-WWA6ZcfU4ydDFwQ/edit?usp=sharing)
+3. Remote access- there won't be a live feed for the hackathon.
+You can follow the session notes above and comment.
+4. Click on the badge to join our channel  [![Gitter](https://badges.gitter.im/FORCE19_RSH/community.svg)](https://gitter.im/FORCE19_RSH/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+
 ## Activities
 
 The activities will be organised around 2-4 segments from the following list,
 depending on the interests of the participants:
 
-  - Identifiers for software
-
-      - Granularity of identification
-
-      - Correspondence between different identifier schemas
-
-      - Hacking the software citation graph
-
-      - Exploring synergies
-
-   - Metadata interoperability
-
-        - Metadata mapping (CodeMeta)
-
-        - Connections with WikiData
-        
-        - Tooling
-
-   - Data quality
-
-        - Guidelines and checklists
-
-        - Moderation process
-
-        - Supporting reproducibility
-
-   - Policies and incentives
-
-        - Institutions
-
-        - Evaluation committees
-
-        - National research bodies
-
-        - Learned societies
-
-        - Publishers
+- Identifiers for software
+    - Granularity of identification
+    - Correspondence between different identifier schemas
+    - Hacking the software citation graph
+    - Exploring synergies
+- Metadata interoperability
+  - Metadata mapping (CodeMeta)
+  - Connections with WikiData
+  - Tooling
+- Data quality
+  - Guidelines and checklists
+  - Moderation process
+  - Supporting reproducibility
+- Policies and incentives
+  - Institutions
+  - Evaluation committees
+  - National research bodies
+  - Learned societies
+  - Publishers
 
 
 These activities will be carried out in parallel tracks, or sequentially,

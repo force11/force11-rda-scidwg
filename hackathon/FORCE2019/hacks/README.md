@@ -2,4 +2,4 @@
 
 ## Software identifiers
 
-- Statistics on DataCite's DOI
+- Statistics on DataCite's API
