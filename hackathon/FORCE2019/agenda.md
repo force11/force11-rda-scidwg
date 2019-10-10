@@ -13,9 +13,11 @@
 
 Break down into 2-4 groups (the number of groups depends on the number of participants):
 
-- challenge definition
-- track presentation and review expected outcomes
-- discussion about challenge and possible solutions
+- nominate a scribe/rapporteur
+- review track description and expected outcomes
+- define challenges and scope of the discussion
+- discussion about challenge
+
 
 | **Identifiers for software** | **Metadata interoperability** | **Data quality &amp; curation** | **Policies &amp; incentives** |
 | --- | --- | --- | --- |
