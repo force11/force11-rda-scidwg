@@ -23,6 +23,7 @@ During the hackathon there will be  a few presentations about research software
 challenges and institutional solutions.
 
 ## Logistics
+Venue: Edinburgh Grosvenor Hotel- Palmerston room 
 1. [The agenda](agenda.md)
 2. The session notes for each track:
   - [Identifiers](https://docs.google.com/document/d/1HUch2cvR4RJYc8U5eLLPIW2PPJgQvCwSO924TJHojvY/edit?usp=sharing)

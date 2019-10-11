@@ -2,7 +2,7 @@
 
 ## Agenda
 
-9:15 - 9:45 | Opening of the day- introductions
+9:00 - 9:45 | Opening of the day- introductions
 -  Research software challenges and actors
   - the joint FORCE11 & RDA Software Identification WG [SCID]
   - the RDA Software Source Code
@@ -16,7 +16,7 @@ Break down into 2-4 groups (the number of groups depends on the number of partic
 - nominate a scribe/rapporteur
 - review track description and expected outcomes
 - define scope of the discussion
-- discussion about challenge
+- start discussion about challenge
 
 
 | **Identifiers for software** | **Metadata interoperability** | **Data quality &amp; curation** | **Policies &amp; incentives** |
