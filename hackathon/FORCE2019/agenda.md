@@ -1,6 +1,6 @@
 # Research Software Hackathon
 
-## Provisional program
+## Agenda
 
 9:15 - 9:45 | Opening of the day- introductions
 -  Research software challenges and actors
@@ -15,7 +15,7 @@ Break down into 2-4 groups (the number of groups depends on the number of partic
 
 - nominate a scribe/rapporteur
 - review track description and expected outcomes
-- define challenges and scope of the discussion
+- define scope of the discussion
 - discussion about challenge
 
 

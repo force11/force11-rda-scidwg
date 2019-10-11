@@ -23,7 +23,7 @@ During the hackathon there will be  a few presentations about research software
 challenges and institutional solutions.
 
 ## Logistics
-1. [The agenda](FORCE2019/agenda.md)
+1. [The agenda](agenda.md)
 2. The session notes for each track:
   - [Identifiers](https://docs.google.com/document/d/1HUch2cvR4RJYc8U5eLLPIW2PPJgQvCwSO924TJHojvY/edit?usp=sharing)
   - [Metadata interoperability](https://docs.google.com/document/d/1AcIU8SSGnqCbz1vUCBXSt1VfwIBoMNW8K5p8U2FK-Vs/edit?usp=sharing)

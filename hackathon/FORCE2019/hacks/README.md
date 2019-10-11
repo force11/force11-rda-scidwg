@@ -2,4 +2,4 @@
 
 ## Software identifiers
 
-- Statistics on DataCite's API
+- Statistics on DataCite's API [Jupyter notebook](datacite_mining.ipnyb)
