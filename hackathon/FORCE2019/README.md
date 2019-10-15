@@ -35,10 +35,10 @@ You can follow the session notes above and comment.
 4. Click on the badge to join our channel  [![Gitter](https://badges.gitter.im/FORCE19_RSH/community.svg)](https://gitter.im/FORCE19_RSH/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Presentations
-1. research software challenges and actors
+1. [research software challenges and actors](https://annex.softwareheritage.org/public/talks/2019/2019-10-15-Force2019.pdf)
 2. the joint FORCE11 & RDA Software Identification WG SCID
 3. the RDA Software Source Code IG
-4. [the FORCE11 Software Citation Implementation WG]( https://doi.org/10.6084/m9.figshare.9971672)
+4. [the FORCE11 Software Citation Implementation WG](https://doi.org/10.6084/m9.figshare.9971672)
 4. [today's agenda and activities](https://docs.google.com/presentation/d/1pcN7LiHuWx1dXhhvXRHJ7vYbCAFvy4EQSBZ0ln1DrpA/edit?usp=sharing)
 ## Activities
 
