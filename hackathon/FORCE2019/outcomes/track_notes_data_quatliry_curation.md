@@ -18,7 +18,7 @@ for future evolutions.
 
 **Resources &amp; References:**
 
-| **Title** | **Description** | **Institution**** /organisation **|** Link **|** Year **|** Reviewer** |
+| **Title** | **Description** | **Institution** /**organisation** | **Link** | **Year** | **Reviewer** |
 | --- | --- | --- | --- | --- | --- |
 | Software Deposit Guidance for Researchers | The[Software Sustainability Institute](https://www.software.ac.uk), funded by[Jisc](https://www.jisc.ac.uk), developed a set of complementary guides covering the main aspects of depositing software into digital repositories. These guides are intended for researchers, principal investigators and research leaders and research data and digital repository managers. | The Software Sustainability Institute | [https://softwaresaved.github.io/software-deposit-guidance/](https://softwaresaved.github.io/software-deposit-guidance/) | 2018 | Shannon |
 | guidelines for archiving on SWH | How to prepare a repository and use the save code now feature | Software Heritage | [https://annex.softwareheritage.org/public/guidelines/archive-research-software.pdf](https://annex.softwareheritage.org/public/guidelines/archive-research-software.pdf) | 2019 | Ariel |
