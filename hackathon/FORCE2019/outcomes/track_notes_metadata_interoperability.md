@@ -213,8 +213,7 @@ PR to the crosswalk table #219-#222: see [https://github.com/codemeta/codemeta/p
 | Citation type |   | \<ResourceTyperesourceTypeGeneral=\"Software\"\> |   | \<ref\>\<element-citation publication-type=\"software\"\> |
 | Author wrapper |   | \<contributors\>  |   | \<person-group> |
 | Author name wrapper |   | \<contributor\> |   | \<name\> |
-| Author(s) name as string  | authors:- family-names: Druskat    given-names: Stephan | \<contributorName\> | creators |  \<string-name\>
- |
+| Author(s) name as string  | authors:- family-names: Druskat    given-names: Stephan | \<contributorName\> | creators |  \<string-name\> |
 | Author name, structured |   | \<givenName\>
 \<familyName\> |   | \<surname\>\<given-names\> |
 | Publication Year | date-released | \<publicationYear\> | created | \<year\> |
