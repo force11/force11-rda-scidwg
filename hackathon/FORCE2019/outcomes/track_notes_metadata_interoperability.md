@@ -77,7 +77,7 @@ One of the The Software Citation Implementation WG task force is the CodeMeta ta
   - Handle missing or malformed data in a codemeta.json file.
   - Use the Github API to get data if no codemeta.json file exists.
   - Support .cff files.
-  - Add an &quot;import to my citation manager&quot; feature.
+  - Add an \"import to my citation manager\" feature.
   - Support gitlab, software heritage, and other repositories.
 
 ### Hack ideas
@@ -210,20 +210,20 @@ PR to the crosswalk table #219-#222: see [https://github.com/codemeta/codemeta/p
 
 | **generic** | **.cff** | **datacite** | **.zenodo.json** | **JATS** |
 | --- | --- | --- | --- | --- |
-| Citation type |   | \&lt;ResourceTyperesourceTypeGeneral=&quot;Software&quot;\&gt; |   | \&lt;ref\&gt;\&lt;element-citation publication-type=&quot;software&quot;\&gt; |
-| Author wrapper |   | \&lt;contributors\&gt;  |   | \&lt;person-group\&gt; |
-| Author name wrapper |   | \&lt;contributor\&gt; |   | \&lt;name\&gt; |
-| Author(s) name as string  | authors:- family-names: Druskat    given-names: Stephan | \&lt;contributorName\&gt; | creators |  \&lt;string-name\&gt;
+| Citation type |   | \<ResourceTyperesourceTypeGeneral=\"Software\"\> |   | \<ref\>\<element-citation publication-type=\"software\"\> |
+| Author wrapper |   | \<contributors\>  |   | \<person-group> |
+| Author name wrapper |   | \<contributor\> |   | \<name\> |
+| Author(s) name as string  | authors:- family-names: Druskat    given-names: Stephan | \<contributorName\> | creators |  \<string-name\>
  |
-| Author name, structured |   | \&lt;givenName\&gt;
-\&lt;familyName\&gt; |   | \&lt;surname\&gt;\&lt;given-names\&gt; |
-| Publication Year | date-released | \&lt;publicationYear\&gt; | created | \&lt;year\&gt; |
-| Title wrapper |   | \&lt;titles\&gt; |   |   |
-| Title | title | \&lt;title\&gt;  | title | \&lt;data-title\&gt;But subject to change only other current option is \&lt;article-title\&gt; |
-| Version No | version | \&lt;version\&gt; | version | \&lt;version\&gt; With optional @attribute value, eg: \&lt;version designator=&quot;XXX&quot;\&gt; |
-| Publisher (host)\* | - | \&lt;publisher\&gt; | - | \&lt;publisher-name\&gt;Could also add  \&lt;publisher-loc\&gt;Or use \&lt;source\&gt; instead to indicate repo |
+| Author name, structured |   | \<givenName\>
+\<familyName\> |   | \<surname\>\<given-names\> |
+| Publication Year | date-released | \<publicationYear\> | created | \<year\> |
+| Title wrapper |   | \<titles\> |   |   |
+| Title | title | \<title\>  | title | \<data-title\>But subject to change only other current option is \<article-title\> |
+| Version No | version | \<version\> | version | \<version\> With optional @attribute value, eg: \<version designator=\"XXX\"\> |
+| Publisher (host)\* | - | \<publisher\> | - | \<publisher-name\>Could also add  \<publisher-loc\>Or use \<source\> instead to indicate repo |
 | PID URL |   | Identifier |   |   |
-| DOI | doi | \&lt;identifier identifierType=&quot;DOI&quot;\&gt; | doi | \&lt;pub-id pub-id-type=&quot;doi&quot;\&gt; |
-| URL (non-PID) |   |   |   | Eg: \&lt;ext-link ext-link-type=&quot;uri&quot; xlink:href=&quot;https://www.globalphasing.com/buster/&quot;\&gt;https://www.globalphasing.com/buster/\&lt;/ext-link\&gt;  |
+| DOI | doi | \<identifier identifierType=\"DOI\"\> | doi | \<pub-id pub-id-type=\"doi\"\> |
+| URL (non-PID) |   |   |   | Eg: \<ext-link ext-link-type=\"uri\" xlink:href=\"https://www.globalphasing.com/buster/\"\>https://www.globalphasing.com/buster/\</ext-link\>;  |
 
 \*(host/repo/institution)
