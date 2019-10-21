@@ -106,14 +106,24 @@ Here is the list and links to all the hackathon outputs by track:
     - Discussion notes
     - preliminary identifiers crosswalk
 - Metadata interoperability
-  - Discussion notes
-  - Metadata mapping (CodeMeta)
-  - Tools
+  - [Discussion notes](/outcomes/track_notes_metadata_interoperability.md)
+  - [eLife overview](/outcomes/elife_overview.pdf)
+  - Tools and Hacks:
+    - [CodeMeta and citation tools survey](CodeMeta_Citation_tools_survey.csv)
+    - An experiment with GitHub actions and Zenodo.     
+      - [repository](https://github.com/arfon/zenodo-actions)
+    - Cite my code- chrome extension.
+      - [repository](https://github.com/NateWr/citemycode) on branch [codemeta_hackathon](https://github.com/NateWr/citemycode/tree/codemeta_hackathon)
+    - CodeMeta Generator
+      - [repository](https://forge.softwareheritage.org/source/codemeta-generator/)
+      - [project board](https://forge.softwareheritage.org/tag/codemeta_generator/)
 - Data quality and curation
   - [Discussion notes](/outcomes/track_notes_data_quatliry_curation.md)
   - [Guidelines survey](/outcomes/software_best_practices_crosswalk.csv)
   - [Group's presentation](/outcomes/output_data_quality_and_curation.pdf)
 - Policies and incentives
   - [Discussion notes](FORCE2019/outcomes/track_notes_policies_incentives.md)
+
+Also the software citation checklist produced by the SCIWG's guidelines task force was published for the first time as [version 0.9.0](https://zenodo.org/record/3479199#.XabXFZw68dU) during the hackathon.
 
 All outcomes are available in the [/outcomes](/outcomes) directory.

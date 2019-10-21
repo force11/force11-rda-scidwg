@@ -1,0 +1,18 @@
+"The list of CodeMeta, Citation & Metadata tools for Research Software",,,,,,,,,,,,,,
+"This is a collaborative effort to list and survey all tools that can be used for metadata and citation, in particular CodeMeta tools",,,,,,,,,,,,,,
+name & url/repository,description,repository,identifier,programmingLanguage,maintainer,target user,coverage CodeMeta & CodeMeta version,coverage schema.org,helpers to complete form,validation,accessibility,license for reuse and modification,possibility to review and amend the result,notes
+https://codemeta.github.io/create/ -,Generate codemeta form on CodeMeta site,https://github.com/codemeta/codemeta.github.io/blob/hugo/layouts/shortcodes/react-schema.html,,javascript,cboettig,researcher,not full,no,no,?,on chrome only,possible,no,
+codemetar,Generate codemeta for R packages; + generic codemeta manipulation,,10.5281/zenodo.2648599,R,cboettig,developper,2.0.0,,,,,,,
+CodeMeta file generator,Generate codemeta ,,,Ruby,arfon,developper,not full & 0.1.0,no,no,no,,,,
+Bolognese,"primarily a tool for conversion between formats provided by DataCite, including codemeta and schema.org",,10.5438/n138-z3mk,Ruby,mfenner,developper,1.0.0,,,,,,,
+Codemeta Generator,A  (client-side) web application to generate Codemeta documents (aka. codemeta.json).,https://forge.softwareheritage.org/source/codemeta-generator.git,,javascript,Software Heritage,researcher,2.0.0  not full,no,only licenses,only form validation,run localy on browser,GNU AGPL,no,
+schema.org editor,Schema Generator,https://github.com/GUI-Junkie/Schema.org-Generator/,,Python 3.4,Hans Polak,researcher,No CodeMeta,release 3.9 or 3.1 for open source release,no,no,on browser (https://schema.pythonanywhere.com/SoftwareSourceCode),possible,yes,
+cffinit,CFF initialization tool,https://github.com/citation-file-format/cff-initializer-javascript,10.5281/zenodo.1404735,,,researcher,"not CodeMeta , 10 cff properties",no,no spdx list or other helpers,only real time,on browser,,,
+cffconvert,CFF conversion tool,,10.5281/zenodo.3338153,,Jurriaan H. Spaaks,,,,,,,Apache Software License (Apache 2.0),,
+cffconvert-online,CFF conversion tool online,,,,,,,,,,,,,
+codemetapy,Generate codemeta for Python package from existing pip information or scratch,https://github.com/proycon/codemetapy,,Python,Maarten van Gompel (proycon),researcher,,,,,command line,possible (GPL),,
+Google check generated schema,,,,,,,,,,,,,,
+ames,Convert codemeta to DataCite (with other metadata transforms),https://github.com/caltechlibrary/ames,10.22002/D1.1265,Python,Tom Morrell,researcher,2.0.0,,no,no,command line,yes,yes,
+cite my code,Detects a CFF in a GitHub repo and generates BibTeX. Would be nice to get it fully working/working with CodeMeta files,https://github.com/citation-file-format/citemycode,,Javascript,Started at CollabW19,researcher,No CodeMeta,no,no,?,no,yes,no,currently only exists as a Chrome extension
+json-ld validator,,https://github.com/json-ld/json-ld.org,,,,,,,,,,,,
+,SchemaApp jsonld-schema-generator,https://www.schemaapp.com/tools/jsonld-schema-generator/,,,,,No CodeMeta,,,,on browser,no,,commercial
