@@ -88,3 +88,32 @@ In the issues, please comment the track that interests you:
 
 You are welcome to suggest subjects and activities on specific tracks or
 as separate issues.
+
+## Outcomes
+
+During the day, there were 40 participants from different disciplines and representing different stakeholders.
+
+At first we had 3 groups:
+1. Identifiers & Hacking the software citation graph
+2 Metadata Interoperability & eLife's Software Citation Sprint
+3. Data quality & curation with Policies & Incentives.
+
+During the day, group 3 separated into the original activities.
+
+Each group has produced some written notes from the discussion and other outputs (depending on the group).
+Here is the list and links to all the hackathon outputs by track:
+- Identifiers for software
+    - Discussion notes
+    - preliminary identifiers crosswalk
+- Metadata interoperability
+  - Discussion notes
+  - Metadata mapping (CodeMeta)
+  - Tools
+- Data quality and curation
+  - [Discussion notes](/outcomes/track_notes_data_quatliry_curation.md)
+  - [Guidelines survey](/outcomes/software_best_practices_crosswalk.csv)
+  - [Group's presentation](/outcomes/output_data_quality_and_curation.pdf)
+- Policies and incentives
+  - [Discussion notes](FORCE2019/outcomes/track_notes_policies_incentives.md)
+
+All outcomes are available in the [/outcomes](/outcomes) directory.
