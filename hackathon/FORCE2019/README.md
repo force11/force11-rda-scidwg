@@ -36,10 +36,10 @@ You can follow the session notes above and comment.
 
 ## Presentations
 1. [research software challenges and actors](https://annex.softwareheritage.org/public/talks/2019/2019-10-15-Force2019.pdf)
-2. the joint FORCE11 & RDA Software Identification WG SCID
-3. the RDA Software Source Code IG
-4. [the FORCE11 Software Citation Implementation WG](https://doi.org/10.6084/m9.figshare.9971672)
-4. [today's agenda and activities](https://docs.google.com/presentation/d/1pcN7LiHuWx1dXhhvXRHJ7vYbCAFvy4EQSBZ0ln1DrpA/edit?usp=sharing)
+  - the joint FORCE11 & RDA Software Identification WG SCID
+  - the RDA Software Source Code IG
+  - [the FORCE11 Software Citation Implementation WG](https://doi.org/10.6084/m9.figshare.9971672)
+4. [today's agenda and activities](presentations/Agenda_presentation.pdf)
 ## Activities
 
 The activities will be organised around 2-4 segments from the following list,
@@ -106,10 +106,10 @@ Here is the list and links to all the hackathon outputs by track:
     - Discussion notes
     - preliminary identifiers crosswalk
 - Metadata interoperability
-  - [Discussion notes](/outcomes/track_notes_metadata_interoperability.md)
-  - [eLife overview](/outcomes/elife_overview.pdf)
+  - [Discussion notes](outcomes/track_notes_metadata_interoperability.md)
+  - [eLife overview](outcomes/elife_overview.pdf)
   - Tools and Hacks:
-    - [CodeMeta and citation tools survey](CodeMeta_Citation_tools_survey.csv)
+    - [CodeMeta and citation tools survey](outcomes/CodeMeta_Citation_tools_survey.csv)
     - An experiment with GitHub actions and Zenodo.     
       - [repository](https://github.com/arfon/zenodo-actions)
     - Cite my code- chrome extension.
@@ -118,12 +118,12 @@ Here is the list and links to all the hackathon outputs by track:
       - [repository](https://forge.softwareheritage.org/source/codemeta-generator/)
       - [project board](https://forge.softwareheritage.org/tag/codemeta_generator/)
 - Data quality and curation
-  - [Discussion notes](/outcomes/track_notes_data_quatliry_curation.md)
-  - [Guidelines survey](/outcomes/software_best_practices_crosswalk.csv)
-  - [Group's presentation](/outcomes/output_data_quality_and_curation.pdf)
+  - [Discussion notes](outcomes/track_notes_data_quatliry_curation.md)
+  - [Guidelines survey](outcomes/software_best_practices_crosswalk.csv)
+  - [Group's presentation](outcomes/output_data_quality_and_curation.pdf)
 - Policies and incentives
-  - [Discussion notes](FORCE2019/outcomes/track_notes_policies_incentives.md)
+  - [Discussion notes](outcomes/track_notes_policies_incentives.md)
 
 Also the software citation checklist produced by the SCIWG's guidelines task force was published for the first time as [version 0.9.0](https://zenodo.org/record/3479199#.XabXFZw68dU) during the hackathon.
 
-All outcomes are available in the [/outcomes](/outcomes) directory.
+All outcomes are available in the [outcomes](/outcomes) directory.
