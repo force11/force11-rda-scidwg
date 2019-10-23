@@ -1,0 +1,21 @@
+Thing,type,granularity [1-7],digital?,Use case,Example,PID used
+software project,concept,1,non-digital,Identify the project with the context in which it was developped,SageMath https://www.wikidata.org/wiki/Q1165184,Wikidata entity
+software entity metadata record in a registry,description,2,digital,Cite a piece of software with the right credit for the people involved in the software,https://swmath.org/software/825,
+software repository,dynamic artifact,3,digital,Use and contribute to the software on the working repository,https://github.com/sagemath/sage,
+software repository- fork,dynamic copyed artifact,3,digital,"Contribute to the main project via pull requests, or reuse with modifications",https://github.com/sagemath/sage/network/members,
+software landing page (Web page describing the software),description,2,digital,Discover software and complementary information about the software ,https://www.sagemath.org,
+software package (source),artifact,4,digital,Rebuild the software from sources,http://www.sagemath.org/download-packages.html,
+software package (binary),artifact,4,digital,Install and run the software,https://www.sagemath.org/download.html,
+software image of a version for an environment (executable),artifact,4,digital,Install and run the software,https://packages.debian.org/buster/amd64/sagemath/download,
+"software article (preprints, published, etc.)",description,2,digital,Understand the software with its detailed explanantion in a research context,http://www.sagemath.org/library-publications.html,
+software reference manual,description,2,digital,Understand how to use the software,http://doc.sagemath.org/html/en/reference/,
+software tutorial (jupyter notebook),artifact and description,3,digital,Learn to use the software,http://doc.sagemath.org/html/en/tutorial/,
+software developer documentation,description,3,digital,Contribute to the development of the software ,https://doc.sagemath.org/html/en/developer/index.html,
+software environment ,complementary artifact,-,digital,Compile and run the software,An EassI ID?,
+software image (screenshots),complementary description,-,digital,Visualize the software,http://www.sagemath.org/tour-graphics.html,
+software deposit,artifact,4,digital,Archive and reference a software bundle,http://doi.org/10.5281/zenodo.820864,"DOI, HAL-ID"
+software source code tree (snapshot),artifact,4,digital,Identify and reference the state of the development of the software (source code with all the branches and tags for all the versions),https://archive.softwareheritage.org/swh:1:snp:db942cd85528df109fea1e483c71a08e53523554;origin=https://github.com/sagemath/sage/,hash
+"software source code element (release, revision, directory)",artifact,5,digital,"Identify and reference the specific part of the development history- a release tagged with a comment, a revision (a.k.a a commit), a directory in the source code tree ",https://archive.softwareheritage.org/swh:1:dir:73c274ad9662dbadb41984e1e1223f09bb8a3860;origin=https://github.com/sagemath/sage/,hash
+software source code file (a specific leaf in the tree),artifact,6,digital,Identify and reference the source code file,swh:1:cnt:c60366bc03936eede6509b23307321faf1035e23;origin=https://github.com/sagemath/sage;lines=473-537,hash
+software source code algorithm (lines of code in a file in the tree),artifact,7,digital,Identify and reference a specific algorithm inside a file,swh:1:cnt:c60366bc03936eede6509b23307321faf1035e23;origin=https://github.com/sagemath/sage;lines=473-537,hash
+Prefered citation (decided by the project),-,depends on the project's decision,-,Cite the software with the instructions from the author (sometimes not compliant with software citation principles),https://wiki.sagemath.org/Publications_using_SageMath,

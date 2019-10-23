@@ -103,8 +103,8 @@ During the day, group 3 separated into the original activities.
 Each group has produced some written notes from the discussion and other outputs (depending on the group).
 Here is the list and links to all the hackathon outputs by track:
 - Identifiers for software
-    - Discussion notes
-    - preliminary identifiers crosswalk
+    - [Discussion notes](outcomes/track_notes_identifiers.md)
+    - [preliminary identifiers crosswalk](outcomes/crosswalk_identifiers.csv)
 - Metadata interoperability
   - [Discussion notes](outcomes/track_notes_metadata_interoperability.md)
   - [eLife overview](outcomes/elife_overview.pdf)
