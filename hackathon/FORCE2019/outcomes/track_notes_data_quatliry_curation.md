@@ -1,22 +1,22 @@
 **FORCE2019 Research Software Hackathon**
 
-**Data quality and curation track**
+# Data quality and curation track
 
 
 
-**Description:**
+## Description:
 
 Many stakeholders have established institutional best practices when dealing with software as a research output. These guidelines provide a way to improve data quality and facilitate curation. Sometimes the guidelines also provide mechanism or instructions for better software citation.
 
 It is important to compare the existing guidelines and see the commonalities and differences
 for future evolutions.
 
-**Expected outcomes:**
+## Expected outcomes:
 
 - Align guidelines: identify commonalities and differences
 - Identify key points for consideration when dealing with quality curation
 
-**Resources &amp; References:**
+## Resources &amp; References:
 
 | **Title** | **Description** | **Institution** /**organisation** | **Link** | **Year** | **Reviewer** |
 | --- | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ for future evolutions.
 | Committing to Data Quality Review | This paper explains what we mean by data quality review, what measures can be applied to it, and how it is practiced in three domain-specific archives. We explore a selection of other data repositories in the research data ecosystem, as well as the roles of researchers, academic libraries, and scholarly journals in regard to their application of data quality measures in practice | [International Journal of Digital Curation](http://www.ijdc.net/index) | [https://doi.org/10.2218/ijdc.v9i1.317                                                        ](https://doi.org/10.2218/ijdc.v9i1.317) | 2014 | Janete |
 | Curating for Reproducibility | CURE&#39;s mission is to support curation of research data and review of code and associated digital scholarly objects for the purpose of facilitating the digital preservation of the evidence base necessary for future understanding, evaluation, and reproducibility of scientific claims. We do this through establishing standards, sharing practices, and promoting the philosophy of Data Quality Review. |   | [http://cure.web.unc.edu/](http://cure.web.unc.edu/) |   | Patricia |
 
-**Attendance (n=x)**
+## Participants (n=7)
 
 | **No** | **Name** | **Affiliation** | **Email** | **discipline(s)** |
 | --- | --- | --- | --- | --- |

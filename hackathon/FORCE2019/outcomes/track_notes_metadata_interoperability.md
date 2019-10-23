@@ -39,7 +39,7 @@ One of the The Software Citation Implementation WG task force is the CodeMeta ta
 - [Inria&#39;s Bibtex entry proposition](https://gitlab.inria.fr/gt-sw-citation/bibtex-sw-entry)
 - [Cite my code chrome extension](https://github.com/citation-file-format/citemycode)
 
-## Attendance (n=10)
+## Participants (n=10)
 
 | **No** | **Name** | **Affiliation** | **Email** | **discipline(s)** |
 | --- | --- | --- | --- | --- |

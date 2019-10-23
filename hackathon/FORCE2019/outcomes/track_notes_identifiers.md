@@ -20,7 +20,7 @@ The following items should be taken into consideration for the identifiers discu
 
    - Exploring synergies
 
-**Prepared hack and/or documentation:**
+## Prepared hack and/or documentation:
 
 - Jupyter notebook for hacking DOI and versions with DataCite&#39;s API: [https://github.com/force11/force11-rda-scidwg/tree/master/hackathon/FORCE2019/hacks](https://github.com/force11/force11-rda-scidwg/tree/master/hackathon/FORCE2019/hacks)
 - State of the art document
@@ -31,7 +31,7 @@ The following items should be taken into consideration for the identifiers discu
 
 - The identifiers discussion can result in a state of the art document which will contain a collection of software identification use cases and software identifier schemas (SCID WG M12 goal).
 
-**Ressources &amp; References:**
+## Ressources &amp; References:
 
 - [SCID WG page on RDA](https://www.rd-alliance.org/groups/software-source-code-identification-wg)
 - [https://blog.datacite.org/using-jupyter-notebooks-with-graphql-and-the-pid-graph/](https://blog.datacite.org/using-jupyter-notebooks-with-graphql-and-the-pid-graph/)
@@ -47,7 +47,7 @@ The following items should be taken into consideration for the identifiers discu
 - Wikidata Software Properties
 - The ASCL (Astrophysics Source Code Library) registry [[catalog](http://ascl.net/code/all)][[presentation](https://rd-alliance.org/ascl-presentation-asclnet-making-codes-discoverable-20-years)]
 
-**Attendance (n=6)**
+## Participants (n=6)
 
 | **No** | **Name** | **Affiliation** | **Email** | **discipline(s)** |
 | --- | --- | --- | --- | --- |
@@ -124,8 +124,9 @@ Crosswalking identifiers using Wikidata (SPARQL)
 - Computer art- linking between artifacts sequentially to have the same experience
 
 
+## Outcomes:
 
-Crosswalk identifiers use cases and schemes:
+Crosswalk granularity of software elements, use cases and identifiers:
 
 - Working document: [https://docs.google.com/spreadsheets/d/17YzqH1W1MnrWAC7WJZGaX\_0jCczTuUJlI7UfhyJ4lwY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17YzqH1W1MnrWAC7WJZGaX_0jCczTuUJlI7UfhyJ4lwY/edit?usp=sharing)
-- [First Draft](outcomes/crosswalk_identifiers.csv)
+- [First Draft](crosswalk_identifiers.csv)
